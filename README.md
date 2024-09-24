@@ -16,6 +16,17 @@
 * [W3Schools](https://www.w3schools.com/)
 * [Ratatype](https://www.ratatype.com/)
 
+## Keyboard Shortcuts
+### Shortcuts I frequently use:
+* Ctrl-X (Cut)
+* Ctrl-V (Paste)
+* Ctrl-O (Open)
+
+### Shortcuts I'd like to use:
+* Win-Ctrl-D (Add Virtual Desktop)
+* Win-E (Open File Explorer)
+* Win-Alt-\<Num> (Opens Taskbar App Relative to Number Pressed)
+
 ## Experiments
 * :maple_leaf:
 * :rage3:
